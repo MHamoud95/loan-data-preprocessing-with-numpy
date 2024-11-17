@@ -69,7 +69,7 @@ The final dataset, along with its headers, is saved as a `.csv` file named `loan
 - Comprehensive handling of missing values using domain-relevant techniques.
 - Efficient encoding of categorical data for machine learning compatibility.
 - Integration of external exchange rate data to enhance dataset value.
-- Modular design with checkpointing for debugging and intermediate validation
+- Modular design with checkpointing for debugging and intermediate validation.
 
 ---
 
